@@ -1,4 +1,10 @@
-## Hi there 👋
+## Links
+
+Find my games here: https://troingle.itch.io/
+
+Website: https://troingle.github.io/
+
+Discord: @troingle
 
 <!--
 **troingle/troingle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
